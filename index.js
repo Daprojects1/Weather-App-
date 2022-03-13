@@ -1,4 +1,5 @@
 import keyObject from "./otherfile"
+import "./styles.css"
 
 document.addEventListener("DOMContentLoaded", () => {
 let weatherInput = document.querySelector("#weatherInput");
